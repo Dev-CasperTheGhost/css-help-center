@@ -1,6 +1,6 @@
 # CSS & HTML Help center
 
-Simple help center created with only CSS and HTML
+Simple help center created with only CSS and HTML 
 
 ## Credits
 
